@@ -1,3 +1,4 @@
+<?php require_once('_config.php'); ?>
 <!DOCTYPE html>
 <html>
 	<head>
